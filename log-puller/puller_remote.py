@@ -14,7 +14,7 @@ previous_stamp = ''
 
 #*********PARAMETERS***********#
 authKeyId = 'keyId-hYuSNmbpQxVNNJAYKpdhdnrCCENwcYwo'
-authKey = 'secret-q5kLkxJJTkRNwZ70mglXRVks4tznBNJgiLszIUMlVBJw69jaZ5N1mHrpp3ndKyTT'
+authKey = ''
 api_endpoint = 'https://g.api.soracom.io/v1/'
 imsiTarget = 295050911071572
 portTarget = 22
